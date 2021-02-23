@@ -1,3 +1,7 @@
+#### ‼ CAUTION ‼
+!! forked for study by noobs !!
+[original repo](https://github.com/Kunzisoft/KeePassDX)
+
 # Android KeePassDX
 
 <img src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png"> KeePassDX is a **multi-format KeePass manager for Android devices**. The app allows creating keys and passwords in a secure way by integrating with the Android design standards.
