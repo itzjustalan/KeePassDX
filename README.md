@@ -1,6 +1,7 @@
-#### ‼ CAUTION ‼
-!! forked for study by noobs !!
-[original repo](https://github.com/Kunzisoft/KeePassDX)
+# ⚠️ CAUTION ⚠️
+## !! forked for study by noobs !!
+
+Find the [original repo here.](https://github.com/Kunzisoft/KeePassDX)
 
 # Android KeePassDX
 
